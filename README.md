@@ -51,5 +51,3 @@ My resume is available directly on the website and in this repository:
 - GitHub: https://github.com/sowndaryasree  
 
 ---
-
-⭐ If you like this portfolio, feel free to star this repo!
